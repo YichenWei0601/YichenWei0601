@@ -5,7 +5,6 @@
   <p>
     <img src="https://img.shields.io/badge/Location-China-red?style=flat-square" alt="Location">
     <img src="https://img.shields.io/badge/University-SJTU-blue?style=flat-square" alt="University">
-    <img src="https://img.shields.io/github/followers/YichenWei0601?style=flat-square&color=green" alt="Followers">
   </p>
 </div>
 
@@ -13,24 +12,21 @@
 
 ## 🧑‍💻 关于我 | About Me
 
-- 🔬 专注于计算机科学与人工智能研究
-- 📚 热爱学习新技术，持续探索AI前沿领域
-- 🌱 目前正在深入研究机器学习鲁棒性训练
-- 💡 对LLM、对抗建模等领域充满兴趣
+- Randomly submitting little projects。
+- Pulling interdisciplinary or AI related research project code
+- Barely updating E-notes ( prefer hand-written notes )
 
 ---
 
-## 🚀 项目分类 | Project Categories
+## 🚀 Project Categories
 
-### 📖 学习笔记类 | Study Notes
+### 📖 Study Notes
 <table>
 <tr>
 <td width="50%">
 
 **🎯 [CSnAI-notes](https://github.com/YichenWei0601/CSnAI-notes)**
-- 计算机科学与人工智能课程笔记集合
-- 包含基础概念和高级技术的深入探讨
-- 涵盖正式课程、实践项目和深度研究
+- Self-learning random notes...
 
 </td>
 <td width="50%">
@@ -48,10 +44,9 @@
 <td width="50%">
 
 **📊 [Robustness-Training-in-Four-Procedures-of-Machine-Learning](https://github.com/YichenWei0601/Robustness-Training-in-Four-Procedures-of-Machine-Learning)**
-- 机器学习四个过程中的鲁棒性训练研究
-- 包含完整的代码实现和实验结果
-- 论文相关的所有图表和数据分析
-
+- A study of robustness training in four processes of machine learning
+- Includes complete code implementation and experimental results
+- All graphs and data analysis related to the paper
 </td>
 <td width="50%">
 
@@ -67,9 +62,9 @@
 <td width="50%">
 
 **🌊 [LLM-Adversarial-Modeling-of-Shoreline-Ecology](https://github.com/YichenWei0601/LLM-Adversarial-Modeling-of-Shoreline-Ecology)**
-- 大语言模型在海岸线生态对抗建模中的应用
-- 结合AI技术与环境科学的创新研究
-- 探索LLM在生态建模领域的潜力
+- Application of Large Language Models in Ecological Adversarial Modelling of Shorelines
+- Innovative research combining AI technology and environmental science
+- Exploring the potential of LLM in the field of ecological modelling
 
 </td>
 <td width="50%">
@@ -87,9 +82,9 @@
 <td width="50%">
 
 **🥇 [MCM](https://github.com/YichenWei0601/MCM)**
-- 数学建模竞赛项目文件集
-- 包含完整的建模思路和解决方案
-- 展示数学建模和问题解决能力
+- Mathematical Modelling Competition Project File Collection
+- Contains part of modelling ideas and solutions
+- Demonstrates mathematical modelling and problem solving skills
 
 </td>
 <td width="50%">
@@ -109,28 +104,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YichenWei0601&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YichenWei0601&theme=vue&hide_border=true&layout=compact" alt="Top Languages" height="165">
 </div>
-
----
-
-## 🛠️ 技术栈 | Tech Stack
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Research](https://img.shields.io/badge/Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-
-</div>
-
----
-
-## 🌟 研究兴趣 | Research Interests
-
-- 🤖 **机器学习鲁棒性** - 提高模型在对抗环境下的稳定性
-- 🧠 **大语言模型** - 探索LLM在各领域的应用潜力  
-- 🔄 **对抗建模** - 研究对抗样本和防御机制
-- 🌍 **跨学科应用** - AI技术在生态学等领域的创新应用
 
 ---
 
