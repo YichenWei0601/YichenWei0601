@@ -1,6 +1,8 @@
 <div align="center">
   <h1> I'm Owei (Yichen Wei)</h1>
   <h3>🎓 Primer Computer Science & AI Researcher | Shanghai Jiao Tong University</h3>
+  <h4>Website | [Profile](https://yichenwei0601.github.io/)</h3>
+  
   
   <p>
     <img src="https://img.shields.io/badge/Location-China-red?style=flat-square" alt="Location">
