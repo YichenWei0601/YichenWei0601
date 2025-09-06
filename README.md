@@ -79,6 +79,26 @@
 </tr>
 </table>
 
+### 🎨 Aesthetic Sketch
+<table width="100%">
+<tr>
+<td>
+
+**📊 [Verse Weaver](https://github.com/YichenWei0601/verse-weaver)**  
+- Visualize your words and feelings
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🌊 [Incoherent Madness](https://github.com/YichenWei0601/Incoherent-Madness)**  
+- Explore the artistic gradient from coherent logic to chaotic madness
+
+</td>
+</tr>
+</table>
+
 ### 🏆 Competition Projects
 <table width="100%">
 <tr>
