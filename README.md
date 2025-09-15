@@ -16,7 +16,7 @@
 
 - Randomly submitting little projects。
 - Pulling interdisciplinary or AI related research project code
-- Barely updating E-notes ( prefer hand-written notes )
+- Trying Zettelkasten Method!
 
 ---
 
